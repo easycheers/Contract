@@ -1,0 +1,8 @@
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\bin\Debug\EasyNFT.dll
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\bin\Debug\EasyNFT.pdb
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\obj\Debug\EasyNFT.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\obj\Debug\EasyNFT.csproj.CopyComplete
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\obj\Debug\EasyNFT.dll
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\obj\Debug\EasyNFT.pdb
+G:\SVN\BC\Contract\EasyNFT\EasyNFT\EasyNFT\obj\Debug\EasyNFT.csprojAssemblyReference.cache
