@@ -1,0 +1,8 @@
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\obj\Debug\NFTMarket.csprojAssemblyReference.cache
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\obj\Debug\NFTMarket.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\bin\Debug\NFTMarket.dll
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\bin\Debug\NFTMarket.pdb
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\obj\Debug\NFTMarket.csproj.CopyComplete
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\obj\Debug\NFTMarket.dll
+G:\SVN\BC\Contract\NFTMarket\NFTMarket\NFTMarket\obj\Debug\NFTMarket.pdb
