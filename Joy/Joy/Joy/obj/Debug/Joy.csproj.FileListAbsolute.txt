@@ -1,0 +1,8 @@
+G:\SVN\BC\Contract\Joy\Joy\Joy\bin\Debug\Joy.dll
+G:\SVN\BC\Contract\Joy\Joy\Joy\bin\Debug\Joy.pdb
+G:\SVN\BC\Contract\Joy\Joy\Joy\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\Joy\Joy\Joy\obj\Debug\Joy.csprojAssemblyReference.cache
+G:\SVN\BC\Contract\Joy\Joy\Joy\obj\Debug\Joy.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\Joy\Joy\Joy\obj\Debug\Joy.csproj.CopyComplete
+G:\SVN\BC\Contract\Joy\Joy\Joy\obj\Debug\Joy.dll
+G:\SVN\BC\Contract\Joy\Joy\Joy\obj\Debug\Joy.pdb
