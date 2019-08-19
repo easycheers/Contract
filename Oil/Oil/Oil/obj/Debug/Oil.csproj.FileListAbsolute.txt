@@ -1,0 +1,8 @@
+G:\SVN\BC\Contract\Oil\Oil\Oil\bin\Debug\Oil.dll
+G:\SVN\BC\Contract\Oil\Oil\Oil\bin\Debug\Oil.pdb
+G:\SVN\BC\Contract\Oil\Oil\Oil\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\Oil\Oil\Oil\obj\Debug\Oil.csprojAssemblyReference.cache
+G:\SVN\BC\Contract\Oil\Oil\Oil\obj\Debug\Oil.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\Oil\Oil\Oil\obj\Debug\Oil.csproj.CopyComplete
+G:\SVN\BC\Contract\Oil\Oil\Oil\obj\Debug\Oil.dll
+G:\SVN\BC\Contract\Oil\Oil\Oil\obj\Debug\Oil.pdb
