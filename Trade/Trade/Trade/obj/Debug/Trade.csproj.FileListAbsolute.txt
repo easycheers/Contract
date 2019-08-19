@@ -1,0 +1,7 @@
+G:\SVN\BC\Contract\Trade\Trade\Trade\bin\Debug\Trade.dll
+G:\SVN\BC\Contract\Trade\Trade\Trade\bin\Debug\Trade.pdb
+G:\SVN\BC\Contract\Trade\Trade\Trade\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\Trade\Trade\Trade\obj\Debug\Trade.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\Trade\Trade\Trade\obj\Debug\Trade.csproj.CopyComplete
+G:\SVN\BC\Contract\Trade\Trade\Trade\obj\Debug\Trade.dll
+G:\SVN\BC\Contract\Trade\Trade\Trade\obj\Debug\Trade.pdb
