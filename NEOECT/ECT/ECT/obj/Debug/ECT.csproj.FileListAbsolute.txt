@@ -1,0 +1,8 @@
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\bin\Debug\ECT.dll
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\bin\Debug\ECT.pdb
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\bin\Debug\Neo.SmartContract.Framework.dll
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\obj\Debug\ECT.csproj.CoreCompileInputs.cache
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\obj\Debug\ECT.csproj.CopyComplete
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\obj\Debug\ECT.dll
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\obj\Debug\ECT.pdb
+G:\SVN\BC\Contract\NEOECT\ECT\ECT\obj\Debug\ECT.csprojAssemblyReference.cache
